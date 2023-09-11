@@ -1,0 +1,47 @@
+h1 {
+    background-color: burlywood;
+    color: white;
+    font-family: "Brush Scipt MT";
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+p,
+ul,
+ol {
+    background-color: blanchedalmond;
+    font-size: large;
+}
+
+p,
+li {
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+#chef,
+#muff {
+    height: auto;
+    width: 800px;
+}
+
+#chicha,
+#mnc {
+    height: auto;
+    width: 1000px;
+}
+
+.img-muf,
+.img-mac,
+.img-chi {
+    height: auto;
+    width: 500px;
+}
+
