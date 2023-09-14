@@ -13,8 +13,10 @@ h2 {
 p,
 ul,
 ol {
-    background-color: blanchedalmond;
+    background-color: rgb(250, 225, 186);
     font-size: large;
+    border-top: 5px solid burlywood;
+    border-right: 5px solid burlywood;
 }
 
 p,
@@ -24,12 +26,19 @@ li {
 
 body {
     text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 #chef,
 #muff {
     height: auto;
     width: 800px;
+}
+
+#chef{
+    padding: 5px;
+    border: 5px solid burlywood;
 }
 
 #chicha,
@@ -45,3 +54,20 @@ body {
     width: 500px;
 }
 
+#menu{
+    padding: 100px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.dish{
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+}
+
+.menu-pics {
+    background-color:rgb(228, 194, 149);
+    padding: 10px;
+    margin: 10px;
+}
