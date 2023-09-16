@@ -58,6 +58,7 @@ body {
     padding: 100px;
     padding-left: 500px;
     padding-right: 500px;
+    list-style-type: none;
 }
 
 .dish{
